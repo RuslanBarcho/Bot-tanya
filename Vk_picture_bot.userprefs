@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D2FE2D4E-36F6-492F-95D4-F46D5ED8FD32}|Default">
+  <MonoDevelop.Ide.ItemProperties.Vk__picture__bot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vk_picture_bot/Schedule.cs">
+    <Files>
+      <File FileName="Vk_picture_bot/Program.cs" Line="149" Column="58" />
+      <File FileName="Vk_picture_bot/Properties/Weather.cs" Line="17" Column="41" />
+      <File FileName="Vk_picture_bot/Schedule.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
