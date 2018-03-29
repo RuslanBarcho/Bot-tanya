@@ -307,7 +307,7 @@ namespace VkNet
         public static void login(){
             ulong appId = 6236745;
             string email = "79166054162";
-            string password = "Ruslan99";
+            string password = "***";
             VkNet.Enums.Filters.Settings settings = VkNet.Enums.Filters.Settings.All;
             api = new VkNet.VkApi();
             api.Authorize(new VkNet.ApiAuthParams
